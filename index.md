@@ -1,6 +1,5 @@
 ---
-layout: default
-title: Eras Map of U.S. University Structures
+title: ""
 ---
 
 # Eras Map of U.S. University Structures
