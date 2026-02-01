@@ -16,4 +16,5 @@ An Eras Map is a way to break down how a system evolves by grouping major change
 - Classes, advising, registration, and resources all required showing up
 - Paper forms and in-person communication were the norm
 - Degree paths were structured and not very flexible
+
 How it felt: If you weren’t on campus, you were basically out of the loop.
