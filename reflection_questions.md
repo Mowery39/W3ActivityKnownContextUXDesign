@@ -8,14 +8,18 @@ permalink: /reflection_questions.html
 
 ## Briefly describe your approach to this activity
 
-- My approach was to first figure out what map I wanted to use. I decided to just pick the one that was suggested in the Canvas instructions. After that, I just kind of separated the eras of universities and how everything has changed over the years. 
+- My approach was to first figure out what map I wanted to use. I decided just to pick the one that was suggested in the Canvas instructions. After that, I just kind of separated the eras of universities and how everything has changed over the years. 
 
-## User Needs: Pains, Gains, and Jobs 
+## User Needs: Pains, Gains, and Jobs
 
-- Who are the users that interact with the university system?
--- The main users are students, faculty, and administrative staff, with students being the most frequent users. Each group interacts with the system differently but relies on it to get through daily academic tasks.
-- What tasks or objectives are the users attempting to complete (jobs)? 
+- **Who are the users that interact with the university system?**  
+  The main users are students, faculty, and administrative staff, with students being the most frequent users. Each group interacts with the system differently but relies on it to get through daily academic tasks.
 
-- What benefit or need do users get from the university system (gains)?
+- **What tasks or objectives are the users attempting to complete (jobs)?**  
+  Users are trying to register for classes, access course materials, submit assignments, communicate, and manage academic requirements as efficiently as possible.
 
-- What discomfort or difficulty do users need to accept when interacting with the university system (pains)? 
+- **What benefit or need do users get from the university system (gains)?**  
+  The system gives users centralized access to education, resources, and academic progress, helping guide them toward completing a degree.
+
+- **What discomfort or difficulty do users need to accept when interacting with the university system (pains)?**  
+  University systems can be confusing and overwhelming, with multiple portals and processes that make simple tasks feel more complicated than they should be.
