@@ -30,7 +30,7 @@ permalink: /reflection_questions.html
 
 ## What is the step-by-step procedure you used for the method?
 
-- I followed the Eras Map method as described, but adjusted the framing slightly to focus more on user experience and accessibility rather than just technological changes.
+- I first reviewed the Eras Map method, then identified major time periods in how universities have evolved. I grouped changes in structure, technology, and student experience into distinct eras and summarized each one in a visual format.
 
 ## Include the output of your design method (for example, a screenshot of a webpage with an eras map)
 
