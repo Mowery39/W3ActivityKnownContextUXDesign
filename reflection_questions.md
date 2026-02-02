@@ -13,7 +13,7 @@ permalink: /reflection_questions.html
 ## User Needs: Pains, Gains, and Jobs
 
 - **Who are the users that interact with the university system?**
-  - The main users are students, faculty, and administrative staff, with students being the most frequent users. Each group interacts with the system differently but relies on it to get through daily academic tasks.
+ - The main users are students, faculty, and administrative staff, with students being the most frequent users. Each group interacts with the system differently but relies on it to get through daily academic tasks.
 
 - **What tasks or objectives are the users attempting to complete (jobs)?**
   - Users are trying to register for classes, access course materials, submit assignments, communicate, and manage academic requirements as efficiently as possible.
@@ -23,3 +23,27 @@ permalink: /reflection_questions.html
 
 - **What discomfort or difficulty do users need to accept when interacting with the university system (pains)?**
   - University systems can feel overwhelming, with confusing navigation, multiple portals, and unnecessary steps for simple tasks.
+ 
+## What method did you select and why? 
+
+- I chose the Eras Map only because it was the example that was given in Canvas.
+
+## What is the step-by-step procedure you used for the method?
+
+- I followed the Eras Map method as described, but adjusted the framing slightly to focus more on user experience and accessibility rather than just technological changes.
+
+## Include the output of your design method (for example, a screenshot of a webpage with an eras map)
+
+- The link to this GitHub page will be turned in.
+
+## Did anything surprise you while doing your method or making your artifact?
+
+- Nothing really surprised me; it's just crazy to see how much changed after COVID.
+
+## How would you rate the visual salience/hierarchy of information in your report? What could you do to improve it?  
+
+- I think everything looks clean and is easy to follow. I think if I had more time, some pictures and color changes could be nice. Along with font changes and colors as well. 
+
+## If you had to restart and do this activity again, is there anything you would do differently? 
+
+- Honestly, not really. I think I definitely picked one of the easier ones. 
