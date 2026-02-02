@@ -12,14 +12,14 @@ permalink: /reflection_questions.html
 
 ## User Needs: Pains, Gains, and Jobs
 
-- **Who are the users that interact with the university system?**  
-  The main users are students, faculty, and administrative staff, with students being the most frequent users. Each group interacts with the system differently but relies on it to get through daily academic tasks.
+- **Who are the users that interact with the university system?**
+  - The main users are students, faculty, and administrative staff, with students being the most frequent users. Each group interacts with the system differently but relies on it to get through daily academic tasks.
 
-- **What tasks or objectives are the users attempting to complete (jobs)?**  
-  Users are trying to register for classes, access course materials, submit assignments, communicate, and manage academic requirements as efficiently as possible.
+- **What tasks or objectives are the users attempting to complete (jobs)?**
+  - Users are trying to register for classes, access course materials, submit assignments, communicate, and manage academic requirements as efficiently as possible.
 
-- **What benefit or need do users get from the university system (gains)?**  
-  The system gives users centralized access to education, resources, and academic progress, helping guide them toward completing a degree.
+- **What benefit or need do users get from the university system (gains)?**
+  - The system gives users centralized access to education, resources, and academic progress, helping guide them toward completing a degree.
 
-- **What discomfort or difficulty do users need to accept when interacting with the university system (pains)?**  
-  University systems can be confusing and overwhelming, with multiple portals and processes that make simple tasks feel more complicated than they should be.
+- **What discomfort or difficulty do users need to accept when interacting with the university system (pains)?**
+  - University systems can feel overwhelming, with confusing navigation, multiple portals, and unnecessary steps for simple tasks.
